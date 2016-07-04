@@ -11,7 +11,7 @@
 调用示例：
 $(function(){
 	$.tinybox({
-		title:'小芬芬啊',
+		title:'这里是标题',
 		width:700,
 		height:400,
 		message:'这是弹窗tinybox'
